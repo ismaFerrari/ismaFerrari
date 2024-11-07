@@ -49,6 +49,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
+### Connect with me. :smiley:
 
 [![LinkedIn](https://img.shields.io/badge/Ismael%20Ferrari-%230077B5.svg?logo=linkedin&logoColor=white)](enlace-a-linkedin)
 [![Instagram](https://img.shields.io/badge/Ismael%20Ferrari-%23E4405F.svg?logo=Instagram&logoColor=white)](enlace-a-instagram)
